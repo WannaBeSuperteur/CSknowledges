@@ -16,6 +16,8 @@ DataBase
   * SQL_DDL.md
 * SQL Data Manipulation Language - search
   * SQL_DML_search.md
+* SQL Data Manipulation Language - add, modify and delete
+  * SQL_DML_others.md
 ## DataBase Normalization
 
 ## DataBase Transactions
