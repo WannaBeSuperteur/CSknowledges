@@ -2,6 +2,7 @@ DataBase
 
 ## Basics of DataBase
 * basicsOfDataBase.md
+
 ## Data Model(ing) and Operations
 * data modeling
   * DataModeling.md
@@ -11,6 +12,7 @@ DataBase
   * DataModeling_RelationalDataModel.md
 * relational algebra
   * relationalAlgebra.md
+
 ## SQL
 * SQL (Structured Query Language) - DDL
   * SQL_DDL.md
@@ -18,6 +20,12 @@ DataBase
   * SQL_DML_search.md
 * SQL Data Manipulation Language - add, modify and delete
   * SQL_DML_others.md
+
 ## DataBase Normalization
+* Basics of DataBase Normalization
+* Normal Forms
+* How to make these Normal Forms
 
 ## DataBase Transactions
+* Basics of Transactions
+* Problems and solutions of transactions
